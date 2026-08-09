@@ -14,6 +14,6 @@ Deeply understand Claude AI and build real projects — through coding, automati
 - Learned the basics of Claude — what it can do (chat, coding help, understanding images, creating files)
 - Uploaded my first screenshot
 - day1.png
-- 
+
 
 
