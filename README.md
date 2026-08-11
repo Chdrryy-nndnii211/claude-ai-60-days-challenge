@@ -26,9 +26,34 @@ Weak prompt:
 "Write about marketing."
 
 Engineered prompt:
-
 "Write a 200-word LinkedIn post explaining 3 digital marketing trends for small business owners in 2026. Friendly, professional tone. End with a CTA."
 
 Takeaway: Specify audience, format, tone, and goal — every time.
+------------------------------------------------------------------------------------------------------------------------------------------
+## 🚀 Day 3 — Role-Based Prompting
+
+**Topic:** Role-Based Prompting
+
+Learned how assigning a specific role or persona to Claude can make responses more relevant, structured, and expert-level.
+
+### 🔑 Key Learnings
+
+* What Role-Based Prompting is
+* How roles improve Claude's responses
+* Generic vs expert-level prompting
+* Using personas like Developer, Product Manager, HR Manager, Founder & Marketer
+* **Prompt Formula:** Role + Task + Context + Expected Output
+
+### 💡 Example
+
+**Without Role:**
+
+> How can I improve my app?
+
+**With Role:**
+
+> You are a Growth Product Manager. How can I improve user retention in my app?
+
+
 
 
